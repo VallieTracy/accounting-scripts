@@ -1,3 +1,11 @@
+# CASABA
+#     seedless: False
+#     price: 2.5
+#     flesh_color: None
+#     weight: None
+#     rind_color: None
+# FLESH_COLOR, WEIGHT, RIND_COLOR
+
 """Print out all the melons in our inventory."""
 
 

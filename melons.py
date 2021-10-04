@@ -1,3 +1,11 @@
+# CASABA
+#     seedless: False
+#     price: 2.5
+#     flesh_color: None
+#     weight: None
+#     rind_color: None
+# FLESH_COLOR, WEIGHT, RIND_COLOR
+
 melon_names = {
     1: 'Honeydew',
     2: 'Crenshaw',
